@@ -1,6 +1,5 @@
 package com.org.fourfly.controller;
 
-import com.org.fourfly.exception.ForbiddenException;
 import com.org.fourfly.exception.InvalidArgumentException;
 import com.org.fourfly.service.UserDetailsInfoService;
 import com.org.fourfly.util.MD5;
